@@ -1,0 +1,40 @@
+div{
+    background-color: aqua;
+    width: 80%;
+    height: 80%;
+    text-align: center;
+}
+
+h1{
+    background-color: chartreuse;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin: 20px auto;
+}
+
+span{
+    background-color: coral;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(236, 139, 139);
+}
+
+h2{
+    background-color: rgba(105, 105, 159, 0.509);
+    height: 30px;
+    width: 200px;
+}
+
+p{
+    color: brown;
+    background-color: rgba(159, 196, 121, 0.517);
+    width: 60%;
+    height: 20px;
+}
